@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Header animado - Degradado de morados -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2e1065,50:581c87,100:7e22ce&height=200&section=header&text=%C2%A1Hola,%20soy%20Ronald!%20%F0%9F%91%8B&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%F0%9F%9A%80&descSize=20&descAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2e1065,50:581c87,100:7e22ce&height=200&section=header&text=%C2%A1Hola,%20soy%20Ronald!%20%F0%9F%91%8B&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desarrollador%20Junior%20%F0%9F%9A%80&descSize=20&descAlignY=55" width="100%"/>
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%9A%80+Desarrollador+Full-Stack;%F0%9F%8E%A8+Apasionado+del+Frontend;%F0%9F%8C%B1+Aprendiz+de+por+vida" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%9A%80+Desarrollador+Junior;%F0%9F%8E%A8+Apasionado+del+Frontend;%F0%9F%8C%B1+Aprendiz+de+por+vida" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -45,8 +45,8 @@ const ronald = {
   ubicación: "🌎 Listo para el mundo",
   edad: 22,
   título: "Ingeniero de Software 🎓",
-  rol: "Desarrollador Full-Stack",
-  enfoque: "Frontend con base sólida en Backend",
+  rol: "Desarrollador Junior",
+  enfoque: "Frontend con base en Backend",
   
   pasiones: [
     "🎮 Videojuegos",
@@ -88,14 +88,6 @@ const ronald = {
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
   <br><b>Python</b>
 </td>
-<td align="center" width="96">
-  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
-  <br><b>C++</b>
-</td>
-<td align="center" width="96">
-  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="65" height="65" />
-  <br><b>C#</b>
-</td>
 </tr>
 </table>
 
@@ -108,20 +100,12 @@ const ronald = {
   <br><b>Angular</b>
 </td>
 <td align="center" width="96">
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-  <br><b>React</b>
-</td>
-<td align="center" width="96">
   <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
   <br><b>HTML5</b>
 </td>
 <td align="center" width="96">
   <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
   <br><b>CSS3</b>
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-  <br><b>Tailwind</b>
 </td>
 </tr>
 </table>
@@ -156,10 +140,6 @@ const ronald = {
 <td align="center" width="96">
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
   <br><b>MySQL</b>
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-  <br><b>MongoDB</b>
 </td>
 </tr>
 </table>
