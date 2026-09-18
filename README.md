@@ -32,118 +32,115 @@
 
 <br/>
 
----
+<h2>🌿 Sobre mí</h2>
 
-## 🛠️ Tech Stack
+```javascript
+const ronald = {
+  ubicación: "🌎 Bogotá, Colombia — disponible remoto",
+  título: "Ingeniero de Software 🎓",
+  rol: "Desarrollador de Software",
+  enfoque: "Frontend con base sólida en Backend",
+  aprendiendo: "Desarrollo web, Backend e IA (Platzi)",
+  filosofía: "Construye. Rompe. Aprende. Repite. 🔄",
+};
+```
+
+<br/>
+
+🎓 &nbsp;**Ingeniero de Software** orientado al detalle, con facilidad para adaptarme a nuevas tecnologías.
+
+💡 &nbsp;**Transformo ideas en productos reales** con código limpio, diseño cuidado y foco en la experiencia.
+
+🌱 &nbsp;**Siempre aprendiendo:** arquitecturas escalables, buenas prácticas e Inteligencia Artificial.
+
+<br/>
+
+<h2 align="center">🛠️ Tech Stack</h2>
 
 <div align="center">
 
-### 👨‍💻 Lenguajes
+<h3>👨‍💻 Lenguajes</h3>
 
 <table>
 <tr>
 <td align="center" width="96">
   <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-  <br><b>JavaScript</b>
+  <br><sub><b>JavaScript</b></sub>
 </td>
 <td align="center" width="96">
   <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
-  <br><b>TypeScript</b>
+  <br><sub><b>TypeScript</b></sub>
 </td>
 <td align="center" width="96">
   <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-  <br><b>Java</b>
+  <br><sub><b>Java</b></sub>
 </td>
 <td align="center" width="96">
   <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-  <br><b>Python</b>
+  <br><sub><b>Python</b></sub>
 </td>
 </tr>
 </table>
 
-### 🎨 Frontend
+<h3>🎨 Frontend</h3>
 
 <table>
 <tr>
 <td align="center" width="96">
   <img src="https://skillicons.dev/icons?i=angular" width="48" height="48" alt="Angular" />
-  <br><b>Angular</b>
+  <br><sub><b>Angular</b></sub>
 </td>
 <td align="center" width="96">
   <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-  <br><b>HTML5</b>
+  <br><sub><b>HTML5</b></sub>
 </td>
 <td align="center" width="96">
   <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
-  <br><b>CSS3</b>
+  <br><sub><b>CSS3</b></sub>
 </td>
 </tr>
 </table>
 
-### ⚙️ Backend
+<h3>⚙️ Backend</h3>
 
 <table>
 <tr>
 <td align="center" width="96">
   <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring Boot" />
-  <br><b>Spring Boot</b>
+  <br><sub><b>Spring Boot</b></sub>
 </td>
 <td align="center" width="96">
   <img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django" />
-  <br><b>Django</b>
+  <br><sub><b>Django</b></sub>
 </td>
 </tr>
 </table>
 
-### 🗄️ Bases de Datos
+<h3>🗄️ Bases de Datos</h3>
 
 <table>
 <tr>
 <td align="center" width="96">
   <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-  <br><b>PostgreSQL</b>
+  <br><sub><b>PostgreSQL</b></sub>
 </td>
 <td align="center" width="96">
   <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-  <br><b>MySQL</b>
+  <br><sub><b>MySQL</b></sub>
 </td>
 </tr>
 </table>
 
-### 🔧 Herramientas
+<h3>🔧 Herramientas</h3>
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" alt="Herramientas" />
 
 </div>
-
----
-
-## 🏆 Logros en GitHub
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=RonaldGCP&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="GitHub Trophies" width="100%"/>
-
-</div>
-
----
-
-## 🤝 ¡Conectemos!
-
-<div align="center">
-
-**¿Tienes una idea increíble o buscas un desarrollador con ganas de crecer?**
 
 <br/>
 
-<a href="https://v0-portafolio-ronald-cubides.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/Visita_mi_Portafolio-0E6055?style=for-the-badge&logo=vercel&logoColor=white" alt="Portafolio"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/ronaldgcp/" target="_blank">
-  <img src="https://img.shields.io/badge/Conectemos_en_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
+<div align="center">
 
-<br/><br/>
+<h3>💡 <em>"El código que escribes hoy es la base del mundo que construyes mañana."</em></h3>
+
+</div>
